@@ -1,0 +1,2318 @@
+{
+    "info": {
+        "description": "This dataset contains crowdsourced captions of images from VizWiz datasets. This file contains the val partition.",
+        "license": {
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "name": "Attribution 4.0 International (CC BY 4.0)"
+        },
+        "url": "https://vizwiz.org",
+        "version": "VizWiz-Captions 1.0",
+        "year": 2019,
+        "contributor": "VizWiz-Captions Consortium",
+        "date_created": "2019-12-23"
+    },
+    "images": [
+        {
+            "file_name": "VizWiz_val_00000000.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000000.jpg",
+            "id": 23431,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000001.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000001.jpg",
+            "id": 23432,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000002.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000002.jpg",
+            "id": 23433,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000003.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000003.jpg",
+            "id": 23434,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000004.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000004.jpg",
+            "id": 23435,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000005.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000005.jpg",
+            "id": 23436,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000006.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000006.jpg",
+            "id": 23437,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000007.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000007.jpg",
+            "id": 23438,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000008.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000008.jpg",
+            "id": 23439,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000009.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000009.jpg",
+            "id": 23440,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000010.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000010.jpg",
+            "id": 23441,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000011.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000011.jpg",
+            "id": 23442,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000012.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000012.jpg",
+            "id": 23443,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000013.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000013.jpg",
+            "id": 23444,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000014.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000014.jpg",
+            "id": 23445,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000015.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000015.jpg",
+            "id": 23446,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000016.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000016.jpg",
+            "id": 23447,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000017.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000017.jpg",
+            "id": 23448,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000018.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000018.jpg",
+            "id": 23449,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000019.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000019.jpg",
+            "id": 23450,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000020.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000020.jpg",
+            "id": 23451,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000021.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000021.jpg",
+            "id": 23452,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000022.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000022.jpg",
+            "id": 23453,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000023.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000023.jpg",
+            "id": 23454,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000024.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000024.jpg",
+            "id": 23455,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000025.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000025.jpg",
+            "id": 23456,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000026.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000026.jpg",
+            "id": 23457,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000027.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000027.jpg",
+            "id": 23458,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000028.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000028.jpg",
+            "id": 23459,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000029.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000029.jpg",
+            "id": 23460,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000030.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000030.jpg",
+            "id": 23461,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000031.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000031.jpg",
+            "id": 23462,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000032.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000032.jpg",
+            "id": 23463,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000033.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000033.jpg",
+            "id": 23464,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000034.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000034.jpg",
+            "id": 23465,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000035.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000035.jpg",
+            "id": 23466,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000036.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000036.jpg",
+            "id": 23467,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000037.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000037.jpg",
+            "id": 23468,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000038.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000038.jpg",
+            "id": 23469,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000039.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000039.jpg",
+            "id": 23470,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000040.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000040.jpg",
+            "id": 23471,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000041.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000041.jpg",
+            "id": 23472,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000042.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000042.jpg",
+            "id": 23473,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000043.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000043.jpg",
+            "id": 23474,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000044.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000044.jpg",
+            "id": 23475,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000045.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000045.jpg",
+            "id": 23476,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000046.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000046.jpg",
+            "id": 23477,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000047.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000047.jpg",
+            "id": 23478,
+            "text_detected": false
+        },
+        {
+            "file_name": "VizWiz_val_00000048.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000048.jpg",
+            "id": 23479,
+            "text_detected": true
+        },
+        {
+            "file_name": "VizWiz_val_00000049.jpg",
+            "vizwiz_url": "https://ivc.ischool.utexas.edu/VizWiz_visualization_img/VizWiz_val_00000049.jpg",
+            "id": 23480,
+            "text_detected": true
+        }
+    ],
+    "annotations": [
+        {
+            "caption": "A computer screen shows a repair prompt on the screen.",
+            "image_id": 23431,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117155,
+            "text_detected": true
+        },
+        {
+            "caption": "a computer screen with a repair automatically pop up",
+            "image_id": 23431,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117156,
+            "text_detected": true
+        },
+        {
+            "caption": "partial computer screen showing the need of repairs",
+            "image_id": 23431,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117157,
+            "text_detected": true
+        },
+        {
+            "caption": "Part of a computer monitor showing a computer repair message.",
+            "image_id": 23431,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117158,
+            "text_detected": true
+        },
+        {
+            "caption": "The top of a laptop with a blue background and dark blue text.",
+            "image_id": 23431,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117159,
+            "text_detected": true
+        },
+        {
+            "caption": "A person is holding a bottle that has medicine for the night time.",
+            "image_id": 23432,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117160,
+            "text_detected": true
+        },
+        {
+            "caption": "A bottle of medication has a white twist top.",
+            "image_id": 23432,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117161,
+            "text_detected": true
+        },
+        {
+            "caption": "night time medication bottle being held by someone",
+            "image_id": 23432,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117162,
+            "text_detected": true
+        },
+        {
+            "caption": "a person holding a small black bottle of NIGHT TIME",
+            "image_id": 23432,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117163,
+            "text_detected": true
+        },
+        {
+            "caption": "A bottle of what appears to be cough syrup held in hand.",
+            "image_id": 23432,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117164,
+            "text_detected": true
+        },
+        {
+            "caption": "a white paper showing an image of black and brown dog",
+            "image_id": 23433,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117165,
+            "text_detected": true
+        },
+        {
+            "caption": "A library book with pictures of two dogs on the cover on a wooden table.",
+            "image_id": 23433,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117166,
+            "text_detected": true
+        },
+        {
+            "caption": "A book with a black and a tan dog walking down a snowy street.",
+            "image_id": 23433,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117167,
+            "text_detected": true
+        },
+        {
+            "caption": "The book cover shows two dogs in the snow",
+            "image_id": 23433,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117168,
+            "text_detected": true
+        },
+        {
+            "caption": "A book cover title Dog Years with an image of a black and brown dog walking up the street, on the left side it has a due date sticker from a library.",
+            "image_id": 23433,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117169,
+            "text_detected": true
+        },
+        {
+            "caption": "A white box is to the left of a blue box on a wooden table.",
+            "image_id": 23434,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117170,
+            "text_detected": true
+        },
+        {
+            "caption": "A small rectangular red and white box next to a small rectangular blue box on a wooden surface.",
+            "image_id": 23434,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117171,
+            "text_detected": true
+        },
+        {
+            "caption": "two boxes of  medicine, one white and red and the other blue sitting on a table",
+            "image_id": 23434,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117172,
+            "text_detected": true
+        },
+        {
+            "caption": "Two boxes that appear to contain medication or eye drops",
+            "image_id": 23434,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117173,
+            "text_detected": true
+        },
+        {
+            "caption": "Two boxes of pharmaceutical products left in a table",
+            "image_id": 23434,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117174,
+            "text_detected": true
+        },
+        {
+            "caption": "close up of a computer monitor that is powered on.",
+            "image_id": 23435,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117175,
+            "text_detected": true
+        },
+        {
+            "caption": "A monitor has a message displayed on it.",
+            "image_id": 23435,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117176,
+            "text_detected": true
+        },
+        {
+            "caption": "Pictured here is a screenshot that shows an error message from an app.",
+            "image_id": 23435,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117177,
+            "text_detected": true
+        },
+        {
+            "caption": "Computer screen displaying an error saying the display driver is not supported by Zoom Text.",
+            "image_id": 23435,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117178,
+            "text_detected": true
+        },
+        {
+            "caption": "a screenshot of someone's monitor that is having issues",
+            "image_id": 23435,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117179,
+            "text_detected": true
+        },
+        {
+            "caption": "a DELL laptop computer screen  showing window 7 home premium",
+            "image_id": 23436,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117180,
+            "text_detected": true
+        },
+        {
+            "caption": "A computer screen with a windows dialogue box containing the login.",
+            "image_id": 23436,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117181,
+            "text_detected": true
+        },
+        {
+            "caption": "Computer screen showing a Windows 7 home premium window with a Dell logo on it.",
+            "image_id": 23436,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117182,
+            "text_detected": true
+        },
+        {
+            "caption": "A dell laptop with windows 7 home screen.",
+            "image_id": 23436,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117183,
+            "text_detected": true
+        },
+        {
+            "caption": "window screen of dell desktop or laptop showed box of windows 7",
+            "image_id": 23436,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117184,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23437,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117185,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23437,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117186,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23437,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117187,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23437,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117188,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23437,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117189,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23438,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117190,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23438,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117191,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23438,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117192,
+            "text_detected": true
+        },
+        {
+            "caption": "A close-up of a package of a computer-related item.",
+            "image_id": 23438,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117193,
+            "text_detected": true
+        },
+        {
+            "caption": "A device with Microsoft and Hewlett Packard logos, but too blurry to tell what it is",
+            "image_id": 23438,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117194,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23439,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117195,
+            "text_detected": false
+        },
+        {
+            "caption": "A bottle of lotion on the table in front of someone sitting down wearing shorts.",
+            "image_id": 23439,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117196,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23439,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117197,
+            "text_detected": false
+        },
+        {
+            "caption": "A small bottle of lotion on a table above a person's lap.",
+            "image_id": 23439,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117198,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23439,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117199,
+            "text_detected": false
+        },
+        {
+            "caption": "The interior of a bus has a horizontal bar near the ceiling for passengers to hold on to and behind it there is a sign regarding handicapped passengers.",
+            "image_id": 23440,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117200,
+            "text_detected": true
+        },
+        {
+            "caption": "A curving metal handrail with a horizontal cross piece about a foot from the bus' ceiling is directly in front of the handicap exit.",
+            "image_id": 23440,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117201,
+            "text_detected": true
+        },
+        {
+            "caption": "The overhead handrails on a bus in the city are shown with a building right outside the window below them.",
+            "image_id": 23440,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117202,
+            "text_detected": true
+        },
+        {
+            "caption": "A vehicle has a window and a gray bar.",
+            "image_id": 23440,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117203,
+            "text_detected": false
+        },
+        {
+            "caption": "A gray frame around a window that indicates seating for disabled people.",
+            "image_id": 23440,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117204,
+            "text_detected": true
+        },
+        {
+            "caption": "A view of a building with a picture of a man on it with a couple big trees in front of it.",
+            "image_id": 23441,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117205,
+            "text_detected": true
+        },
+        {
+            "caption": "SKY VIEW SNAPSHOT OF TREES IN FRONT OF A GIANT BILLBOARD.",
+            "image_id": 23441,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117206,
+            "text_detected": true
+        },
+        {
+            "caption": "view of trees and a nearby sign promoting Istikrar Sursun",
+            "image_id": 23441,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117207,
+            "text_detected": true
+        },
+        {
+            "caption": "downtown photo of several buildings, trees people and automobiles",
+            "image_id": 23441,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117208,
+            "text_detected": true
+        },
+        {
+            "caption": "White building with a brick colored roof and a sign that reads 'istikrarsursun'",
+            "image_id": 23441,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117209,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23442,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117210,
+            "text_detected": false
+        },
+        {
+            "caption": "A white object with elastic sides sitting on a wooden surface.",
+            "image_id": 23442,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117211,
+            "text_detected": false
+        },
+        {
+            "caption": "A baby diaper keep in the table shown by the image.",
+            "image_id": 23442,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117212,
+            "text_detected": false
+        },
+        {
+            "caption": "A opened up Diaper laying on a wooden surface.",
+            "image_id": 23442,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117213,
+            "text_detected": false
+        },
+        {
+            "caption": "Clean maxi Pad over a dark wooden surface.",
+            "image_id": 23442,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117214,
+            "text_detected": false
+        },
+        {
+            "caption": "appears to be a picture of prepaid card",
+            "image_id": 23443,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117215,
+            "text_detected": true
+        },
+        {
+            "caption": "Large orange and white label with a person's hand holding it.",
+            "image_id": 23443,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117216,
+            "text_detected": true
+        },
+        {
+            "caption": "Someone is holding a white envelope with an orange strip down the length of it.",
+            "image_id": 23443,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117217,
+            "text_detected": true
+        },
+        {
+            "caption": "The package contains information about the enclosed medication",
+            "image_id": 23443,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117218,
+            "text_detected": true
+        },
+        {
+            "caption": "Pictured is the top left corner of a parcel of mail.",
+            "image_id": 23443,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117219,
+            "text_detected": true
+        },
+        {
+            "caption": "A white piece of paper with a blue emblem off to the side.",
+            "image_id": 23444,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117220,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23444,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117221,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23444,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117222,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23444,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117223,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23444,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117224,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23445,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117225,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23445,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117226,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23445,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117227,
+            "text_detected": false
+        },
+        {
+            "caption": "A bright blinding light is obstructing all view",
+            "image_id": 23445,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117228,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23445,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117229,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23446,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117230,
+            "text_detected": false
+        },
+        {
+            "caption": "A set of hand held electronic children's learning devices, one for puzzles and a dictionary.",
+            "image_id": 23446,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117231,
+            "text_detected": true
+        },
+        {
+            "caption": "Two packages with children's calculators in them are on the wooden table.",
+            "image_id": 23446,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117232,
+            "text_detected": true
+        },
+        {
+            "caption": "two kids learning toys still in package laying on a table",
+            "image_id": 23446,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117233,
+            "text_detected": true
+        },
+        {
+            "caption": "Two electronic learning toys for children, both in plastic packaging.",
+            "image_id": 23446,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117234,
+            "text_detected": true
+        },
+        {
+            "caption": "A picture of what appears to be some kind of food label.",
+            "image_id": 23447,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117235,
+            "text_detected": true
+        },
+        {
+            "caption": "Obstructed view of some type of microwavable or frozen food",
+            "image_id": 23447,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117236,
+            "text_detected": true
+        },
+        {
+            "caption": "Package of frozen food on top of a white surface.",
+            "image_id": 23447,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117237,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23447,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117238,
+            "text_detected": true
+        },
+        {
+            "caption": "Some package food, looks like some kind of meat or pasta.",
+            "image_id": 23447,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117239,
+            "text_detected": true
+        },
+        {
+            "caption": "an image of a windows seven disk plate on the floor",
+            "image_id": 23448,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117240,
+            "text_detected": true
+        },
+        {
+            "caption": "A Windows 7 Ultimate Edition CD on a black counter top.",
+            "image_id": 23448,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117241,
+            "text_detected": true
+        },
+        {
+            "caption": "Windows 7 ultimate DVD and 64-bit software disc",
+            "image_id": 23448,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117242,
+            "text_detected": true
+        },
+        {
+            "caption": "Human stand beside table and CD titles windows 7",
+            "image_id": 23448,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117243,
+            "text_detected": true
+        },
+        {
+            "caption": "I see a disk for Windows 7 Ultimate.",
+            "image_id": 23448,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117244,
+            "text_detected": true
+        },
+        {
+            "caption": "A laptop screen with system dialog on the screen,",
+            "image_id": 23449,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117245,
+            "text_detected": true
+        },
+        {
+            "caption": "The corner of a black computer with type of the screen and white type on the keyboard.",
+            "image_id": 23449,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117246,
+            "text_detected": true
+        },
+        {
+            "caption": "Partial view of laptop showing upper right portion of keyboard starting with F8 key all the way to the delete key and the screen is the right hand portion showing approximately half of the screen.",
+            "image_id": 23449,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117247,
+            "text_detected": true
+        },
+        {
+            "caption": "A black laptop with the computer's specs on the screen.",
+            "image_id": 23449,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117248,
+            "text_detected": true
+        },
+        {
+            "caption": "Part of the keyboard and screen on a laptop.",
+            "image_id": 23449,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117249,
+            "text_detected": true
+        },
+        {
+            "caption": "The underside of a Dell Inspiron laptop showing the device label including the text \"Inspiron 1545\".",
+            "image_id": 23450,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117250,
+            "text_detected": true
+        },
+        {
+            "caption": "A black substance  that has letters of the commodity.",
+            "image_id": 23450,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117251,
+            "text_detected": true
+        },
+        {
+            "caption": "The back of a Dell laptop which shows the label and serial number.",
+            "image_id": 23450,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117252,
+            "text_detected": true
+        },
+        {
+            "caption": "A Dell computer number and information on the side of a computer tower.",
+            "image_id": 23450,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117253,
+            "text_detected": true
+        },
+        {
+            "caption": "Part of a laptop's specs and barcode are shown on stickers attached to the back of the laptop.",
+            "image_id": 23450,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117254,
+            "text_detected": true
+        },
+        {
+            "caption": "point of sale food or deli possibly inside of the mall or other retail outlet.",
+            "image_id": 23451,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117255,
+            "text_detected": true
+        },
+        {
+            "caption": "GLOOMY SNAPSHOT OF A SNACK BAR SITE",
+            "image_id": 23451,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117256,
+            "text_detected": false
+        },
+        {
+            "caption": "Some small mall food court restaurant is shown with two workers behind the counter and no one in line.",
+            "image_id": 23451,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117257,
+            "text_detected": true
+        },
+        {
+            "caption": "The entrance of a restaurant with a lighted sign above a counter.",
+            "image_id": 23451,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117258,
+            "text_detected": false
+        },
+        {
+            "caption": "An image of a fast food restaurant like one seen in a mall.",
+            "image_id": 23451,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117259,
+            "text_detected": true
+        },
+        {
+            "caption": "part of the white sweater whose brand is USPA",
+            "image_id": 23452,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117260,
+            "text_detected": true
+        },
+        {
+            "caption": "appears to be a picture of a shirt",
+            "image_id": 23452,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117261,
+            "text_detected": true
+        },
+        {
+            "caption": "The logo for the United States Parachute Association decorates this shirt.",
+            "image_id": 23452,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117262,
+            "text_detected": true
+        },
+        {
+            "caption": "The Logo that has been sewn onto a white shirt, a USPCA logo",
+            "image_id": 23452,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117263,
+            "text_detected": true
+        },
+        {
+            "caption": "A brown embroidered USPA logo on white fabric",
+            "image_id": 23452,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117264,
+            "text_detected": true
+        },
+        {
+            "caption": "A bright colored pillow case with a bottle and dropper on it.",
+            "image_id": 23453,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117265,
+            "text_detected": true
+        },
+        {
+            "caption": "A essential oil bottle with a dropper is on a white fabric.",
+            "image_id": 23453,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117266,
+            "text_detected": true
+        },
+        {
+            "caption": "A wonderful view of the fog windows in the room is very thick",
+            "image_id": 23453,
+            "is_precanned": false,
+            "is_rejected": true,
+            "id": 117267,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23453,
+            "is_precanned": true,
+            "is_rejected": true,
+            "id": 117268,
+            "text_detected": true
+        },
+        {
+            "caption": "An herbal dietary supplement from Walgreen's in a glass bottle with dropper.",
+            "image_id": 23453,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117269,
+            "text_detected": true
+        },
+        {
+            "caption": "Computer monitor currently on a wooden computer desk",
+            "image_id": 23454,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117270,
+            "text_detected": false
+        },
+        {
+            "caption": "A computer monitor reflects a camera flash, wires surround it.",
+            "image_id": 23454,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117271,
+            "text_detected": true
+        },
+        {
+            "caption": "A computer monitor starting up resting on a desk with a mouse and CD cases.",
+            "image_id": 23454,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117272,
+            "text_detected": true
+        },
+        {
+            "caption": "a squared computer monitor sitting on a desk with wires near it.",
+            "image_id": 23454,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117273,
+            "text_detected": false
+        },
+        {
+            "caption": "A computer monitor showing windows starting on a desk with cables around",
+            "image_id": 23454,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117274,
+            "text_detected": true
+        },
+        {
+            "caption": "A blue computer screen with white text showing stages of verifying files",
+            "image_id": 23455,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117275,
+            "text_detected": true
+        },
+        {
+            "caption": "The computer features a blue screen notifying the user that the disk needs to be checked and the status of verifying the files, and a dirty screen.",
+            "image_id": 23455,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117276,
+            "text_detected": true
+        },
+        {
+            "caption": "blue screen on computer with a bunch of white text on it",
+            "image_id": 23455,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117277,
+            "text_detected": true
+        },
+        {
+            "caption": "A sideways picture of a computer screen or TV with codes that appear to be loading something.",
+            "image_id": 23455,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117278,
+            "text_detected": true
+        },
+        {
+            "caption": "computer monitor with a windows blue error screen on it",
+            "image_id": 23455,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117279,
+            "text_detected": true
+        },
+        {
+            "caption": "Power lines stretch across an expanse of cloudy gray sky.",
+            "image_id": 23456,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117280,
+            "text_detected": false
+        },
+        {
+            "caption": "stormy clouds over a parking lot with cars, telephone poles and buildings in the background",
+            "image_id": 23456,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117281,
+            "text_detected": false
+        },
+        {
+            "caption": "View of buildings and cars on a city street on a cloudy day.",
+            "image_id": 23456,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117282,
+            "text_detected": false
+        },
+        {
+            "caption": "An outside crowded parking lot and a few buildings with an overcast sky",
+            "image_id": 23456,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117283,
+            "text_detected": false
+        },
+        {
+            "caption": "Sky is dark with clouds that look like rain can see several building and cars",
+            "image_id": 23456,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117284,
+            "text_detected": false
+        },
+        {
+            "caption": "A package of medicine, 28 tablets that are 20 milligrams.",
+            "image_id": 23457,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117285,
+            "text_detected": true
+        },
+        {
+            "caption": "A picture of a medication box sitting on a glossy stone background.",
+            "image_id": 23457,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117286,
+            "text_detected": true
+        },
+        {
+            "caption": "A box of medicine is on the dirty ground",
+            "image_id": 23457,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117287,
+            "text_detected": true
+        },
+        {
+            "caption": "a picture of a box of pills with 28 tablets on the floor",
+            "image_id": 23457,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117288,
+            "text_detected": true
+        },
+        {
+            "caption": "A box that holds 28, 20 mg tablets manufactured by the company Bristol.",
+            "image_id": 23457,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117289,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23458,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117290,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23458,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117291,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23458,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117292,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23458,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117293,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23458,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117294,
+            "text_detected": false
+        },
+        {
+            "caption": "image is blur and hard to find what it is",
+            "image_id": 23459,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117295,
+            "text_detected": false
+        },
+        {
+            "caption": "A woman in pink pajamas standing next to a white refrigerator in a kitchen.",
+            "image_id": 23459,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117296,
+            "text_detected": false
+        },
+        {
+            "caption": "The back of a woman in pink standing  at her counter and next to her white refrigerator",
+            "image_id": 23459,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117297,
+            "text_detected": false
+        },
+        {
+            "caption": "A photo of a person wearing a pink shirt and pink flower pants in a kitchen next to a refrigerator.",
+            "image_id": 23459,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117298,
+            "text_detected": false
+        },
+        {
+            "caption": "A person in red shirt and pink pajama pants stands in a kitchen near cabinets and counters.",
+            "image_id": 23459,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117299,
+            "text_detected": false
+        },
+        {
+            "caption": "A PC running Windows software is stuck at an installation prompt.",
+            "image_id": 23460,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117300,
+            "text_detected": true
+        },
+        {
+            "caption": "Part of an LCD computer screen with an error message on it is displayed in the picture.",
+            "image_id": 23460,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117301,
+            "text_detected": true
+        },
+        {
+            "caption": "A online customer service dialog that you could communicate with the vendor online.",
+            "image_id": 23460,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117302,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23460,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117303,
+            "text_detected": true
+        },
+        {
+            "caption": "Several pamphlets on top of each other as white pamphlet with black letters.",
+            "image_id": 23460,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117304,
+            "text_detected": true
+        },
+        {
+            "caption": "A view of a take out restaurant menu",
+            "image_id": 23461,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117305,
+            "text_detected": true
+        },
+        {
+            "caption": "A food menu with images of drink and food.",
+            "image_id": 23461,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117306,
+            "text_detected": true
+        },
+        {
+            "caption": "The middle part of a menu, where the black, bordered cover is located.",
+            "image_id": 23461,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117307,
+            "text_detected": true
+        },
+        {
+            "caption": "An opened restaurant menu listing all the food options",
+            "image_id": 23461,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117308,
+            "text_detected": true
+        },
+        {
+            "caption": "A portion of a menu is shown with items such as hamburger, tejano plate, shrimp plate, steak and eggs, etc.",
+            "image_id": 23461,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117309,
+            "text_detected": true
+        },
+        {
+            "caption": "A computer screen with an antenna ear behind it and a speaker on the side of it.",
+            "image_id": 23462,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117310,
+            "text_detected": true
+        },
+        {
+            "caption": "a computer monitor showing a Samsung recovery solution 4",
+            "image_id": 23462,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117311,
+            "text_detected": true
+        },
+        {
+            "caption": "Computer screen with blue background and Samsung Recovery Solution 4 message in white including a yellow triangle with ! mark and there is part of the router behind screen.",
+            "image_id": 23462,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117312,
+            "text_detected": true
+        },
+        {
+            "caption": "A computer screen is displaying a window with a message",
+            "image_id": 23462,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117313,
+            "text_detected": true
+        },
+        {
+            "caption": "A SNAPSHOT OF A COMPUTER DESKTOP SCREEN",
+            "image_id": 23462,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117314,
+            "text_detected": true
+        },
+        {
+            "caption": "A computer screen has several windows open and one says recent in red.",
+            "image_id": 23463,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117315,
+            "text_detected": true
+        },
+        {
+            "caption": "IMAGE WAS CLEAR BUT  ITS HAFE OF THE IMAGE",
+            "image_id": 23463,
+            "is_precanned": false,
+            "is_rejected": true,
+            "id": 117316,
+            "text_detected": true
+        },
+        {
+            "caption": "A computer screen is turned on with a dialogue box.",
+            "image_id": 23463,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117317,
+            "text_detected": true
+        },
+        {
+            "caption": "several windows open and tabs on a computer monitor",
+            "image_id": 23463,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117318,
+            "text_detected": true
+        },
+        {
+            "caption": "open browser windows on a computer screen for software.",
+            "image_id": 23463,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117319,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23464,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117320,
+            "text_detected": true
+        },
+        {
+            "caption": "UP CLOSE SNAPSHOT OF A COMPUTER SCREEN",
+            "image_id": 23464,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117321,
+            "text_detected": false
+        },
+        {
+            "caption": "A zoomed in portion of a computer screen is shown displaying some sort of Call page.",
+            "image_id": 23464,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117322,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23464,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117323,
+            "text_detected": true
+        },
+        {
+            "caption": "An image of a blue and white computer screen.",
+            "image_id": 23464,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117324,
+            "text_detected": true
+        },
+        {
+            "caption": "A TV screen displaying  a news broadcast and a shelf with an arrangement of toy.",
+            "image_id": 23465,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117325,
+            "text_detected": true
+        },
+        {
+            "caption": "A desk with a television as well as a shelf above with toys on it.",
+            "image_id": 23465,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117326,
+            "text_detected": false
+        },
+        {
+            "caption": "I see a TV that sitting on the table",
+            "image_id": 23465,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117327,
+            "text_detected": false
+        },
+        {
+            "caption": "a TV on a stand with a shelf that is cluttered above it.",
+            "image_id": 23465,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117328,
+            "text_detected": true
+        },
+        {
+            "caption": "A TV displaying the weather channel sitting under a shelf covered in random objects.",
+            "image_id": 23465,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117329,
+            "text_detected": false
+        },
+        {
+            "caption": "A person in a long sleeved green shirt is  holding a small document in his hand.",
+            "image_id": 23466,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117330,
+            "text_detected": true
+        },
+        {
+            "caption": "A person is holding onto a small piece of paper.",
+            "image_id": 23466,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117331,
+            "text_detected": true
+        },
+        {
+            "caption": "Someone wearing a camouflage shirt is holding a \nJammin' and Crammin' ad in their left hand.",
+            "image_id": 23466,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117332,
+            "text_detected": true
+        },
+        {
+            "caption": "A person is holding a paper with an image",
+            "image_id": 23466,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117333,
+            "text_detected": true
+        },
+        {
+            "caption": "A white piece of paper with a black and white image with black text on someone's hand.",
+            "image_id": 23466,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117334,
+            "text_detected": true
+        },
+        {
+            "caption": "appears to be photo of a magazine cover featuring a winter covered street with buildings and houses around and 2 dogs traveling down the street",
+            "image_id": 23467,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117335,
+            "text_detected": true
+        },
+        {
+            "caption": "A library book about dogs sits on a brown table.",
+            "image_id": 23467,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117336,
+            "text_detected": true
+        },
+        {
+            "caption": "A library book about dogs sitting on a wooden table.",
+            "image_id": 23467,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117337,
+            "text_detected": true
+        },
+        {
+            "caption": "This library book has not been borrowed very often.",
+            "image_id": 23467,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117338,
+            "text_detected": true
+        },
+        {
+            "caption": "A book with a library sticker on the front, called \"dog years (a memoir)\" with a picture of two dogs walking down a street.",
+            "image_id": 23467,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117339,
+            "text_detected": true
+        },
+        {
+            "caption": "A package of Kirkland Signature pork chops are shown.",
+            "image_id": 23468,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117340,
+            "text_detected": true
+        },
+        {
+            "caption": "An image that shows a payment invoice for a specific establishment.",
+            "image_id": 23468,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117341,
+            "text_detected": true
+        },
+        {
+            "caption": "A label to a product with bold text on it.",
+            "image_id": 23468,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117342,
+            "text_detected": true
+        },
+        {
+            "caption": "Label for boneless center pork loin and rib chops.",
+            "image_id": 23468,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117343,
+            "text_detected": true
+        },
+        {
+            "caption": "A receipt has a part circled in red",
+            "image_id": 23468,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117344,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23469,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117345,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23469,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117346,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23469,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117347,
+            "text_detected": true
+        },
+        {
+            "caption": "A white card with black text is on the table",
+            "image_id": 23469,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117348,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23469,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117349,
+            "text_detected": false
+        },
+        {
+            "caption": "imagine how you would describe this image on the phone to a friend.",
+            "image_id": 23470,
+            "is_precanned": false,
+            "is_rejected": true,
+            "id": 117350,
+            "text_detected": false
+        },
+        {
+            "caption": "angled down at someone's lap and feet on the floor",
+            "image_id": 23470,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117351,
+            "text_detected": false
+        },
+        {
+            "caption": "A person's foot against a backdrop of dark cloth.",
+            "image_id": 23470,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117352,
+            "text_detected": false
+        },
+        {
+            "caption": "A person is sitting with their ankles crossed.",
+            "image_id": 23470,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117353,
+            "text_detected": false
+        },
+        {
+            "caption": "A foot is shown, as from above, with what looks like a bare arm or leg and clothing above it, partially obscuring the foot.",
+            "image_id": 23470,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117354,
+            "text_detected": false
+        },
+        {
+            "caption": "A frozen packaged dinner with a lavender and black label.",
+            "image_id": 23471,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117355,
+            "text_detected": true
+        },
+        {
+            "caption": "a package of pre made food with beef",
+            "image_id": 23471,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117356,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23471,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117357,
+            "text_detected": true
+        },
+        {
+            "caption": "Package of beef and rice dinner with white label.",
+            "image_id": 23471,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117358,
+            "text_detected": true
+        },
+        {
+            "caption": "frozen lasagna meal with a white label on the front.",
+            "image_id": 23471,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117359,
+            "text_detected": true
+        },
+        {
+            "caption": "The back of a receipt has grey text down the length.",
+            "image_id": 23472,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117360,
+            "text_detected": true
+        },
+        {
+            "caption": "An image of a person's hand holding on to both ends of a piece of paper with written text,f",
+            "image_id": 23472,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117361,
+            "text_detected": true
+        },
+        {
+            "caption": "a person holding a white piece of paper in CONDITIONS written on it",
+            "image_id": 23472,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117362,
+            "text_detected": true
+        },
+        {
+            "caption": "The back of a receipt with terms of service on a marble counter.",
+            "image_id": 23472,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117363,
+            "text_detected": true
+        },
+        {
+            "caption": "A person is holding a paper on top of a table.",
+            "image_id": 23472,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117364,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23473,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117365,
+            "text_detected": false
+        },
+        {
+            "caption": "A white sheet of paper has blurry text on it",
+            "image_id": 23473,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117366,
+            "text_detected": true
+        },
+        {
+            "caption": "A piece of paper is on the brown table but it is very blurry.",
+            "image_id": 23473,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117367,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23473,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117368,
+            "text_detected": true
+        },
+        {
+            "caption": "A close up of a sheet of paper on a wooden desk.",
+            "image_id": 23473,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117369,
+            "text_detected": true
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23474,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117370,
+            "text_detected": false
+        },
+        {
+            "caption": "The back of a person who is wearing a white shirt",
+            "image_id": 23474,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117371,
+            "text_detected": false
+        },
+        {
+            "caption": "Someone facing away from the camera in a sitting position",
+            "image_id": 23474,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117372,
+            "text_detected": false
+        },
+        {
+            "caption": "an object that has black rectangles in it with a large square object above it",
+            "image_id": 23474,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117373,
+            "text_detected": false
+        },
+        {
+            "caption": "Quality issues are too severe to recognize visual content.",
+            "image_id": 23474,
+            "is_precanned": true,
+            "is_rejected": false,
+            "id": 117374,
+            "text_detected": false
+        },
+        {
+            "caption": "A Hoover vacuum cleaner filter with model number BH50010.",
+            "image_id": 23475,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117375,
+            "text_detected": true
+        },
+        {
+            "caption": "A piece of metal with a manufacturer label is resting on the carpet.",
+            "image_id": 23475,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117376,
+            "text_detected": true
+        },
+        {
+            "caption": "A grey part that goes to a vacuum cleaner sitting on top of a brown carpet.",
+            "image_id": 23475,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117377,
+            "text_detected": true
+        },
+        {
+            "caption": "A silver vacuum cleaner component with the white manufacturer label visible on a beige carpet.",
+            "image_id": 23475,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117378,
+            "text_detected": true
+        },
+        {
+            "caption": "The back part of an small electrical machine",
+            "image_id": 23475,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117379,
+            "text_detected": true
+        },
+        {
+            "caption": "A some sort of card or a ticket, it has an image of a cactus",
+            "image_id": 23476,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117380,
+            "text_detected": true
+        },
+        {
+            "caption": "a hotel key card with an image of a cactus on it",
+            "image_id": 23476,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117381,
+            "text_detected": true
+        },
+        {
+            "caption": "An image of a green cactus with the date July-08-11.",
+            "image_id": 23476,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117382,
+            "text_detected": true
+        },
+        {
+            "caption": "A white ticket is on the table with a cactus on it.",
+            "image_id": 23476,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117383,
+            "text_detected": true
+        },
+        {
+            "caption": "A label with a cactus and the word insert.",
+            "image_id": 23476,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117384,
+            "text_detected": true
+        },
+        {
+            "caption": "on a table electronic device which displays programs, news was kept, on the above shelf was full of prizes",
+            "image_id": 23477,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117385,
+            "text_detected": false
+        },
+        {
+            "caption": "The inside of a bedroom containing a TV with a video game system.",
+            "image_id": 23477,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117386,
+            "text_detected": false
+        },
+        {
+            "caption": "image contain shows a monitor running on a table.",
+            "image_id": 23477,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117387,
+            "text_detected": false
+        },
+        {
+            "caption": "A black TV sitting on a wooden counter with a image of a building",
+            "image_id": 23477,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117388,
+            "text_detected": true
+        },
+        {
+            "caption": "A television sitting on a wooden table below some shelves.",
+            "image_id": 23477,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117389,
+            "text_detected": false
+        },
+        {
+            "caption": "imagine how you would describe this image on the phone to a friend.",
+            "image_id": 23478,
+            "is_precanned": false,
+            "is_rejected": true,
+            "id": 117390,
+            "text_detected": false
+        },
+        {
+            "caption": "Three fingers on the right touching someone's breast with a green shirt an a blue and flower t-shirt",
+            "image_id": 23478,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117391,
+            "text_detected": false
+        },
+        {
+            "caption": "The chest of a woman wearing a floral shirt with a green corduroy shirt over top",
+            "image_id": 23478,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117392,
+            "text_detected": false
+        },
+        {
+            "caption": "A woman's chest, in a flower print top, that is being exposed by a man's hand",
+            "image_id": 23478,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117393,
+            "text_detected": false
+        },
+        {
+            "caption": "A green button down shirt covers a blue shirt with bright flowers.",
+            "image_id": 23478,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117394,
+            "text_detected": false
+        },
+        {
+            "caption": "the reflection of two people hugging in front of the original pancake house door",
+            "image_id": 23479,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117395,
+            "text_detected": true
+        },
+        {
+            "caption": "Someone in the reflection of the door for \"The Original pancake house\"",
+            "image_id": 23479,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117396,
+            "text_detected": true
+        },
+        {
+            "caption": "The sign printed on the front of a door to a pancake house.",
+            "image_id": 23479,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117397,
+            "text_detected": true
+        },
+        {
+            "caption": "Store display with white writing on the window.",
+            "image_id": 23479,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117398,
+            "text_detected": true
+        },
+        {
+            "caption": "some sort of doorway that leads to a pancake house",
+            "image_id": 23479,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117399,
+            "text_detected": true
+        },
+        {
+            "caption": "Three bottles of food product are on a table",
+            "image_id": 23480,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117400,
+            "text_detected": true
+        },
+        {
+            "caption": "A container of orange juice is shown on a table.",
+            "image_id": 23480,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117401,
+            "text_detected": true
+        },
+        {
+            "caption": "Round Glass Bottle with part writing and part lemon on.",
+            "image_id": 23480,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117402,
+            "text_detected": false
+        },
+        {
+            "caption": "THREE SMALL PLASTIC BOTTLES CONTAINING VARIOUS FOOD SUPPLEMENTS AND FOOD.",
+            "image_id": 23480,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117403,
+            "text_detected": true
+        },
+        {
+            "caption": "The side of a blue bottle of a beverage on a counter.",
+            "image_id": 23480,
+            "is_precanned": false,
+            "is_rejected": false,
+            "id": 117404,
+            "text_detected": true
+        }
+    ]
+}
